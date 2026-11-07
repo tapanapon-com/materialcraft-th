@@ -1,0 +1,37 @@
+{
+  "id": "materialcraft",
+  "name": "MaterialCraft",
+  "repository": "https://github.com/tapanapon-com/materialcraft-th",
+  "status": "documentation-only",
+  "containsApplicationSource": false,
+  "thaiVersion": null,
+  "thaiArticle": null,
+  "upstream": {
+    "repository": "https://github.com/storytold/materialcraft",
+    "releaseTag": "v0.2.0",
+    "releaseUrl": "https://github.com/storytold/materialcraft/releases/tag/v0.2.0",
+    "publishedAt": "2026-11-06T20:21:54Z",
+    "checkedAt": "2026-11-07T03:59:09.433727+00:00",
+    "sourceCommit": "047afaaa5c08b344526deb967141cfe6f41f7ddc",
+    "sourceVersion": "0.1.3",
+    "macDownload": "https://github.com/storytold/materialcraft/releases/download/v0.2.0/materialcraft-0.2.0-macos-universal.dmg",
+    "windowsDownload": "https://github.com/storytold/materialcraft/releases/download/v0.2.0/materialcraft-0.2.0-windows-x64.msi",
+    "portableDownload": "https://github.com/storytold/materialcraft/releases/download/v0.2.0/materialcraft-0.2.0-windows-x64-portable.zip",
+    "checksums": "https://github.com/storytold/materialcraft/releases/download/v0.2.0/SHA256SUMS.txt",
+    "changes": [
+      {
+        "text": "รองรับความโปร่งใสในมุมมอง 3 มิติ และเพิ่มการเลือก ลบ สลับ และจัดเส้นเชื่อมใหม่",
+        "source": "https://github.com/storytold/materialcraft/pull/36"
+      },
+      {
+        "text": "เพิ่ม histogram editor พร้อมตัวจับช่วงค่าใน Levels",
+        "source": "https://github.com/storytold/materialcraft/pull/37"
+      },
+      {
+        "text": "เพิ่ม Export outputs ในเมนูคลิกขวาของกราฟใน explorer",
+        "source": "https://github.com/storytold/materialcraft/pull/25"
+      }
+    ]
+  },
+  "versionLog": "https://tapanapon.com/one-per-craft/versions#materialcraft"
+}
