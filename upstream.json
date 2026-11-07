@@ -31,7 +31,25 @@
         "text": "เพิ่ม Export outputs ในเมนูคลิกขวาของกราฟใน explorer",
         "source": "https://github.com/storytold/materialcraft/pull/25"
       }
+    ],
+    "releaseCheckedAt": "2026-11-07T15:57:45.414988+00:00",
+    "releaseHistory": [
+      {
+        "tag": "v0.2.0",
+        "publishedAt": "2026-11-06T20:21:54Z",
+        "url": "https://github.com/storytold/materialcraft/releases/tag/v0.2.0"
+      },
+      {
+        "tag": "v0.1.2",
+        "publishedAt": "2026-11-05T01:24:43Z",
+        "url": "https://github.com/storytold/materialcraft/releases/tag/v0.1.2"
+      },
+      {
+        "tag": "v0.1.1",
+        "publishedAt": "2026-11-04T18:08:56Z",
+        "url": "https://github.com/storytold/materialcraft/releases/tag/v0.1.1"
+      }
     ]
   },
-  "versionLog": "https://tapanapon.com/one-per-craft/versions#materialcraft"
+  "versionLog": "https://github.com/tapanapon-com/materialcraft-th/blob/main/docs/version-log.md"
 }
