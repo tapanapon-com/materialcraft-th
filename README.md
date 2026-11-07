@@ -79,7 +79,7 @@ MaterialCraft TH is an independent Thai-edition preparation project for [Materia
 
 ### Features and workflow
 
-สร้างวัสดุและแผนที่พื้นผิวด้วยกราฟโหนด. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
+Build procedural material graphs, adjust parameters, preview them in 2D and 3D, and export texture maps. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
 
 ### Downloads and installation
 
